@@ -26,7 +26,7 @@ function PannCorner() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/paan corner/Lighters & Accessories.webp"  />
+                                    {/* <img src="../Image/sub category/paan corner/Lighters & Accessories.webp"  /> */}
                                 </div>
 
                                 <div>
@@ -61,7 +61,7 @@ function PannCorner() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/paan corner/Mouth Fresheners.webp"  />
+                                    {/* <img src="../Image/sub category/paan corner/Mouth Fresheners.webp"  /> */}
                                 </div>
 
                                 <div>
@@ -95,7 +95,7 @@ function PannCorner() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/paan corner/Paan.webp"  />
+                                    {/* <img src="../Image/sub category/paan corner/Paan.webp"  /> */}
                                 </div>
 
                                 <div>
@@ -129,7 +129,7 @@ function PannCorner() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/paan corner/Smoking Cessation.webp" alt="" />
+                                    {/* <img src="../Image/sub category/paan corner/Smoking Cessation.webp" alt="" /> */}
                                 </div>
 
                                 <div>

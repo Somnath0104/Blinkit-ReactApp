@@ -27,7 +27,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Adult Diapers.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Adult Diapers.webp" /> */}
                                 </div>
 
                                 <div>
@@ -62,7 +62,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Antiseptic Liquid.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Antiseptic Liquid.webp" /> */}
                                 </div>
 
                                 <div>
@@ -96,7 +96,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Beauty Supplements.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Beauty Supplements.webp" /> */}
                                 </div>
 
                                 <div>
@@ -130,7 +130,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Chyawanprash.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Chyawanprash.webp" /> */}
                                 </div>
 
                                 <div>
@@ -163,7 +163,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Cough & Cold.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Cough & Cold.webp" /> */}
                                 </div>
 
                                 <div>
@@ -198,7 +198,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Digestive Care.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Digestive Care.webp" /> */}
                                 </div>
 
                                 <div>
@@ -232,7 +232,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Everyday Medicines.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Everyday Medicines.webp" /> */}
                                 </div>
 
                                 <div>
@@ -266,7 +266,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Healthcare Devices.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Healthcare Devices.webp" /> */}
                                 </div>
 
                                 <div>
@@ -298,7 +298,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Herbal Drinks.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Herbal Drinks.webp" /> */}
                                 </div>
 
                                 <div>
@@ -333,7 +333,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Marks & Sanitizers.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Marks & Sanitizers.webp" /> */}
                                 </div>
 
                                 <div>
@@ -367,7 +367,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Milk Drinks.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Milk Drinks.webp" /> */}
                                 </div>
 
                                 <div>
@@ -401,7 +401,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Oral Health & Eye Care.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Oral Health & Eye Care.webp" /> */}
                                 </div>
 
                                 <div>
@@ -433,7 +433,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Pre & Post Workout.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Pre & Post Workout.webp" /> */}
                                 </div>
 
                                 <div>
@@ -468,7 +468,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Proten & Sports supplements.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Proten & Sports supplements.webp" /> */}
                                 </div>
 
                                 <div>
@@ -502,7 +502,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Skin Treatment.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Skin Treatment.webp" /> */}
                                 </div>
 
                                 <div>
@@ -536,7 +536,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Smoking Cessation.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Smoking Cessation.webp" /> */}
                                 </div>
 
                                 <div>
@@ -568,7 +568,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Vitamins & Daily Nutrition.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Vitamins & Daily Nutrition.webp" /> */}
                                 </div>
 
                                 <div>
@@ -603,7 +603,7 @@ function Pharma() {
                         <div class="card2s">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pharma & Wellness/Wound Care And Pain Relief.webp" />
+                                    {/* <img src="../Image/sub category/Pharma & Wellness/Wound Care And Pain Relief.webp" /> */}
                                 </div>
 
                                 <div>

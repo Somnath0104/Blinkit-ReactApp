@@ -25,7 +25,7 @@ function PeatCare() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pet Care/Accessories & Other Supplies.png" alt="" />
+                                    {/* <img src="../Image/sub category/Pet Care/Accessories & Other Supplies.png" alt="" /> */}
                                 </div>
 
                                 <div>
@@ -60,7 +60,7 @@ function PeatCare() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pet Care/Cat Needs.png" alt="" />
+                                    {/* <img src="../Image/sub category/Pet Care/Cat Needs.png" alt="" /> */}
                                 </div>
 
                                 <div>
@@ -94,7 +94,7 @@ function PeatCare() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pet Care/Diverse Pet Food.png" alt="" />
+                                    {/* <img src="../Image/sub category/Pet Care/Diverse Pet Food.png" alt="" /> */}
                                 </div>
 
                                 <div>
@@ -128,7 +128,7 @@ function PeatCare() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pet Care/Dog Needs.png" alt="" />
+                                    {/* <img src="../Image/sub category/Pet Care/Dog Needs.png" alt="" /> */}
                                 </div>
 
                                 <div>
@@ -162,7 +162,7 @@ function PeatCare() {
                         <div class="card2">
                             <div class="card">
                                 <div class="img">
-                                    <img src="../Image/sub category/Pet Care/Pet Grooming.png" alt="" />
+                                    {/* <img src="../Image/sub category/Pet Care/Pet Grooming.png" alt="" /> */}
                                 </div>
 
                                 <div>
