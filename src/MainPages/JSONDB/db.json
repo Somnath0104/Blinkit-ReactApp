@@ -1,0 +1,138 @@
+{
+    "Banner1":[
+        {
+            "Name":"Paan Masala",
+            "img":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=2700/layout-engine/2022-05/Group-33704.jpg"
+        }
+    ],
+
+    "Banner2" :[
+        {
+            "id" : 1,
+            "Link" : "/Pharma",
+            "Name" : "Pharmcy",
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-07/pharmacy-WEB.jpg"
+        },
+        {
+            "id" : 2,
+            "Link" :"/Pet",
+            "Name" : "Pet Care",
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-07/Pet-Care_WEB.jpg"
+        },
+        {
+            "id" : 3,
+            "Link" : "/Baby",
+            "Name" : "Baby care Products",
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-03/babycare-WEB.jpg"
+        }
+    ],
+
+    "Product1": [
+        {
+            "id": 1,
+            "name": "Chitale Pasteurised Cow Fresh Milk",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/f2708c7b-f4bd-4a10-8423-7db47490e3de.jpg?ts=1712325613",
+            "quantity": "500 ml",
+            "price": "29 Rs."
+        },
+        {
+            "id": 2,
+            "name": "Chitale Full Cream Fresh Milk",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/8edaa6f9-8a81-495f-9db9-51c98cf8e281.jpg?ts=1712325567",
+            "quantity": "500 ml",
+            "price": "37 Rs."
+        },
+        {
+            "id": 3,
+            "name": "Amul Masti Pouch Curd",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/6ae62ec2-3b13-4fff-b052-2ff3d4ef2d16.jpg?ts=1726473593",
+            "quantity": "400 gm",
+            "price": "35 Rs."
+        },
+        {
+            "id": 4,
+            "name": "Amul Taaza Toned Fresh Milk",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/5ee4441d-9109-48fa-9343-f5ce82b905a6.jpg?ts=1706182143",
+            "quantity": "500 ml.",
+            "price": "28 Rs."
+        },
+        {
+            "id": 5,
+            "name": "Amul Salted Butter",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0be0d49a-4dae-408a-8786-afae1dd05cb1.jpg?ts=1707312314",
+            "quantity": "100 g.",
+            "price": "60 Rs."
+        },
+        {
+            "id": 6,
+            "name": "Mother Dairy Classic Cup Curd",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/58c3cbbf-bac3-4f79-aaa8-825a857ccd84.jpg?ts=1723098460",
+            "quantity": "6 Pieces",
+            "price": "53 Rs."
+        }
+    ],
+    
+    "Product2": [
+        {
+            "id": 1,
+            "name": "Brown Rolling Paper (King Size)",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/2607a98a-0b2d-43dc-b5a5-2322540fa309.jpg?ts=1708597803",
+            "brand": "Stash Pro",
+            "deliveryTime": "20 mins",
+            "quantity": "1 unit (32 pieces)",
+            "price": "50 Rs.",
+            "unit": "1 unit (32 pieces)"
+        },
+        {
+            "id": 2,
+            "name": "Perfect Rolled Cones (Natural)",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/661d1bd8-2374-47ad-b231-af4842bd5d50.jpg?ts=1740560975",
+            "brand": "Bongchie",
+            "deliveryTime": "20 mins",
+            "quantity": "3 pack",
+            "price": "45 Rs.",
+            "unit": "3 pack"
+        },
+        {
+            "id": 3,
+            "name": "Ultimate Rolling Paper with Filter Tips & Crushing Tray (King Size, Unbleached)",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/478728a.jpg?ts=1690814280",
+            "brand": "Mozo",
+            "deliveryTime": "20 mins",
+            "quantity": "1 pack (32 pieces)",
+            "price": "90 Rs.",
+            "unit": "1 pack (32 pieces)"
+        },
+        {
+            "id": 4,
+            "name": "Brown Ripper Rolling Paper 32 Leaves + 32 Roaches",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/5b811154-db15-456d-a219-13edaa288ab7.jpg?ts=1725020018",
+            "brand": "Stash Pro",
+            "deliveryTime": "20 mins",
+            "quantity": "1 pack (64 pieces)",
+            "price": "120 Rs.",
+            "unit": "1 pack (64 pieces)"
+        },
+        {
+            "id": 5,
+            "name": "Colour Roach - Stash Pro",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/506375a.jpg?ts=1698309252",
+            "brand": "Stash Pro",
+            "deliveryTime": "20 mins",
+            "quantity": "32 sheets",
+            "price": "50 Rs.",
+            "unit": "32 sheets"
+        },
+        {
+            "id": 6,
+            "name": "GO DESI Meetha Paan Desi Mints",
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/b06b8269-b0f2-4887-8106-f49d5695fc12.jpg?ts=1720016904",
+            "brand": "GO DESI",
+            "deliveryTime": "20 mins",
+            "quantity": "1 piece",
+            "price": "80 Rs.",
+            "unit": "1 piece"
+        }
+    ]
+
+}

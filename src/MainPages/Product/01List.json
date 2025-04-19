@@ -1,0 +1,45 @@
+[
+    {
+      "id":1,
+      "name": "Chitale Pasteurised Cow Fresh Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/f2708c7b-f4bd-4a10-8423-7db47490e3de.jpg?ts=1712325613",
+      "quantity": "500 ml",
+      "price": "29 Rs."
+    },
+    {
+      "id":2,
+      "name": "Chitale Full Cream Fresh Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/8edaa6f9-8a81-495f-9db9-51c98cf8e281.jpg?ts=1712325567",
+      "quantity": "500 ml",
+      "price": "37 Rs."
+    },
+    {
+      "id":3,
+      "name": "Amul Masti Pouch Curd",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/6ae62ec2-3b13-4fff-b052-2ff3d4ef2d16.jpg?ts=1726473593",
+      "quantity": "400 gm",
+      "price": "35 Rs."
+    },
+    {
+      "id":4,
+      "name": "Amul Taaza Toned Fresh Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/5ee4441d-9109-48fa-9343-f5ce82b905a6.jpg?ts=1706182143",
+      "quantity": "500 ml.",
+      "price": "28 Rs."
+    },
+    {
+      "id":5,
+      "name": "Amul Salted Butter",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0be0d49a-4dae-408a-8786-afae1dd05cb1.jpg?ts=1707312314",
+      "quantity": "100 g.",
+      "price": "60 Rs."
+    },
+    {
+      "id":6,
+      "name": "Mother Dairy Classic Cup Curd",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/58c3cbbf-bac3-4f79-aaa8-825a857ccd84.jpg?ts=1723098460",
+      "quantity": "6 Pieces",
+      "price": "53 Rs."
+    }
+  ]
+  
