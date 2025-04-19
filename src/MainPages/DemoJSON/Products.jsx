@@ -7,7 +7,7 @@ import ProductList from './ProductLists';
 
 function Products () {
     //{searchTerms}
-    const [title , setTitle] = useState("Product List");
+    const [title ] = useState("Product List");
     const [product ] = useState(JSON);
 
     // const filteredItems = JSON.Product1.filter(item =>
