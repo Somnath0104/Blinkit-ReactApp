@@ -8,7 +8,7 @@ import ProductList from './ProductLists';
 function Products () {
     //{searchTerms}
     const [title , setTitle] = useState("Product List");
-    const [product , setProduct] = useState(JSON);
+    const [product ] = useState(JSON);
 
     // const filteredItems = JSON.Product1.filter(item =>
     //     item.name.toLowerCase().includes(searchTerms.toLowerCase())
@@ -23,9 +23,9 @@ function Products () {
     //     }
     // }
 
-    function setHeading(name){
-        setTitle(name);
-    }
+    // function setHeading(name){
+    //     setTitle(name);
+    // }
    
         return (
            <section className="product-Section">
